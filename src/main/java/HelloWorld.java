@@ -4,6 +4,7 @@ class HelloWorld{
 
         System.out.println("My Maven Project");
         System.out.println("Hurray");
+	System.out.println("i have edited with git");	
 
     }
 }
